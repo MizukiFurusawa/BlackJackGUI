@@ -1,0 +1,3 @@
+#define WINDOW_SIZE_X 640
+#define WINDOW_SIZE_Y 480
+#define PI 3.1415926f
